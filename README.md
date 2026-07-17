@@ -1,10 +1,10 @@
-# Hi 👋, I'm Athul Rathor
+# Hi, I'm Athul Rathor
 
 ## Full Stack Developer (MERN Stack)
 
 I build scalable full-stack web applications using modern JavaScript technologies.
 
-### 🚀 Tech Stack
+### Tech Stack
 
 Frontend
 - React.js
