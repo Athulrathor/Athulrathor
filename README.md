@@ -133,11 +133,9 @@ I'm continuously improving my software engineering fundamentals and exploring ba
 - Scalable Web Applications
 - Database Design
 
----
-
-# GitHub Activity
-![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athulrathor&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athulrathor&layout=compact&hide_border=true)
+## 📈 GitHub Activity
+I’m continuously building projects and improving my skills in full-stack development, backend engineering, and software engineering fundamentals.
+Explore my repositories to see my projects, APIs, experiments, and learning progress.
 
 # Career Goals
 I’m currently looking for opportunities where I can:
