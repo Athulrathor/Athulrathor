@@ -98,7 +98,7 @@ A real-time one-to-one messaging application focused on communication and presen
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
 
 🔗 **Repository:**  
-Add your repository link here
+[Add your repository link here](https://github.com/Athulrathor/RealTime_chatApp/tree/master)
 
 ## Video Sharing Backend API
 A backend REST API designed for a video-sharing platform.
@@ -118,7 +118,7 @@ A backend REST API designed for a video-sharing platform.
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST APIs`
 
 🔗 **Repository:**  
-Add your repository link here
+[Add your repository link here](https://github.com/Athulrathor/videoAPP)
 
 # Currently Learning
 I'm continuously improving my software engineering fundamentals and exploring backend and infrastructure technologies.
