@@ -1,13 +1,13 @@
 # Hi, I'm Athul Rathor
 Full Stack Developer | MERN Stack | React.js | Node.js | Express.js | MongoDB
 
-I’m a B.Tech graduate in Artificial Intelligence & Machine Learning and a MERN Stack Developer Intern focused on building full-stack web applications and backend APIs.
+I’m a B.Tech graduate in Artificial Intelligence & Machine Learning and a former MERN Stack Developer Intern focused on building full-stack web applications and backend APIs.
 I enjoy turning ideas into functional products, working across frontend, backend, databases, authentication, APIs, and real-time features.
 
 ## About Me
 
-- B.Tech in Artificial Intelligence & Machine Learning
-- Currently working as a **MERN Stack Developer Intern**
+- B.Tech in Artificial Intelligence & Machine Learning (2026)
+- Completed internship as a **MERN Stack Developer Intern** at Elevance Skill Development Pvt. Ltd.
 - Building full-stack applications using the **MERN stack**
 - Developed **20+ REST APIs** during my internship
 - Experienced with JWT authentication, authorization, and email OTP verification
@@ -15,7 +15,7 @@ I enjoy turning ideas into functional products, working across frontend, backend
 - Working with MongoDB and Mongoose for database-driven applications
 - Experienced with media uploads using Cloudinary and Multer
 - Currently improving Data Structures & Algorithms and Software Engineering fundamentals
-- Currently learning System Design, Docker, Kubernetes, AWS, and CI/CD
+- Currently exploring System Design, Docker, Kubernetes, AWS, and CI/CD
 - Open to **Full Stack Developer, Software Developer, Software Engineer, Backend Developer, and Frontend Developer** opportunities
 
 ## Tech Stack
@@ -54,114 +54,92 @@ I enjoy turning ideas into functional products, working across frontend, backend
 ![Multer](https://img.shields.io/badge/Multer-333333?style=for-the-badge)
 
 # Featured Projects
-## Twitter Clone — Full Stack Social Media Platform
+
+## Full-Stack Social Media Platform
 A full-stack social media application built with the MERN stack.
 
 ### Key Features
-
 - JWT authentication and authorization
 - Email OTP verification
 - Password reset workflow
-- User profiles
-- Create and manage posts
-- Likes and comments
-- Follow / unfollow
-- Bookmarks
-- Notifications
-- Image and media uploads
-- Audio tweet uploads
-- Real-time chat
-- Socket.io real-time functionality
-- Search functionality
-- Admin functionality
+- User profiles & social interactions (Follow/Unfollow, Likes, Bookmarks)
+- Post management with image and audio attachments
+- Real-time chat & notifications via Socket.io
+- Search functionality and admin panel
 - Responsive user interface
 
 ### Tech Stack
-`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Socket.io` `Cloudinary` `Multer` `Tailwind CSS`
+`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Socket.io` `Cloudinary` `Multer` `Tailwind CSS`
 
-🔗 **Live Demo:**  
-[`Live Demo`](https://twitter-clone-five-mu-80.vercel.app/)
+ **Links:**  
+[GitHub Repository](https://github.com/Athulrathor/Twitter-Clone) | [Live Demo](https://twitter-clone-five-mu-80.vercel.app/)
+
+---
 
 ## Real-Time Chat Application
-A real-time one-to-one messaging application focused on communication and presence features.
+A real-time messaging application focused on instant communication and active user presence.
 
 ### Key Features
-
 - JWT authentication
-- One-to-one messaging
-- Real-time communication using Socket.io
-- Typing indicators
-- Online presence
-- Protected communication
+- One-to-one messaging via Socket.io
+- Typing indicators & online status presence
+- Secure backend communication
 
 ### Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
 
-🔗 **Repository:**  
-[`Repo Link`](https://github.com/Athulrathor/RealTime_chatApp/tree/master)
+ **Repository:**  
+[GitHub Repository](https://github.com/Athulrathor/RealTime_chatApp/tree/master)
+
+---
 
 ## Video Sharing Backend API
-A backend REST API designed for a video-sharing platform.
+A scalable backend REST API designed for video-sharing platform workflows.
 
 ### Key Features
-
-- Video management
-- Playlists
-- Comments
-- Likes
-- Subscriptions
-- Watch history
-- Authentication and authorization
-- RESTful API architecture
+- Video publish management & playlists
+- Comment threads, likes, and user subscriptions
+- Watch history tracking
+- Secure JWT authentication and authorization middleware
 
 ### Tech Stack
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST APIs`
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST APIs` `Cloudinary` `Multer`
 
-🔗 **Repository:**  
-[`Repo Link`](https://github.com/Athulrathor/videoAPP)
+ **Repository:**  
+[GitHub Repository](https://github.com/Athulrathor/videoAPP)
 
 # Currently Learning
-I'm continuously improving my software engineering fundamentals and exploring backend and infrastructure technologies.
+I'm continuously improving my software engineering fundamentals and exploring backend architecture and DevOps technologies:
 
 - Data Structures & Algorithms
-- System Design
-- Backend Architecture
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
-- Scalable Web Applications
-- Database Design
+- System Design & Backend Architecture
+- Docker & Kubernetes
+- AWS & CI/CD Pipelines
+- Scalable Web Applications & Database Design
 
-## 📈 GitHub Activity
-I’m continuously building projects and improving my skills in full-stack development, backend engineering, and software engineering fundamentals.
-Explore my repositories to see my projects, APIs, experiments, and learning progress.
+## GitHub Activity
+I’m continuously building projects and improving my skills in full-stack development, backend engineering, and software engineering fundamentals. Explore my repositories to see my code, APIs, and learning progress.
 
 # Career Goals
-I’m currently looking for opportunities where I can:
+I’m currently looking for fresher and entry-level opportunities where I can:
 
 - Build production-quality web applications
 - Work with experienced software engineers
 - Improve my backend and system design skills
 - Solve real-world engineering problems
 - Learn scalable software architecture
-- Contribute to meaningful products
 
 ### Open to
 **Full Stack Developer | MERN Stack Developer | Software Developer | Software Engineer | Backend Developer | Frontend Developer**
 
-📍 Pune, Maharashtra, India  
-🌐 Open to Remote opportunities across India
+ Pune, Maharashtra, India  
+ Open to Remote opportunities across India
 
 # Let's Connect
-I'm always interested in connecting with developers, engineers, recruiters, founders, and people working on interesting technology products.
+I'm always interested in connecting with developers, engineers, recruiters, and founders.
 
-### LinkedIn
-🔗 https://www.linkedin.com/in/athulrathor/
-
-### Email
-📧 atulrathore22@outlook.com
+- **LinkedIn:** [linkedin.com/in/athulrathor](https://www.linkedin.com/in/athulrathor/)
+- **Email:** atulrathore22@outlook.com
 
 ---
-
-⭐ If you find any of my projects useful or interesting, feel free to explore the repositories.
+ Feel free to explore my repositories!
