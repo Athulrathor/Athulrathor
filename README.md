@@ -197,25 +197,6 @@ A collaborative document editor focused on enabling multiple users to work on sh
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Athulrathor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Athulrathor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulrathor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athulrathor&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
