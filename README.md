@@ -1,146 +1,277 @@
-# Hi, I'm Athul Rathor
+# 👋 Hey, I'm Athul Rathor
 
-**Full Stack Developer (Fresher) | B.Tech AIML 26 | MERN Stack | React.js | Node.js | Express.js | MongoDB**
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=180&section=header&text=ATHUL%20RATHOR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineering%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Athul Rathor animated header" />
+</p>
 
-I'm a B.Tech graduate in Artificial Intelligence & Machine Learning who completed a MERN Stack Developer internship. I build full-stack web applications and backend APIs, working across frontend, backend, databases, authentication, and real-time features.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Backend+%26+API+Development;Learning+System+Design;Turning+Ideas+Into+Working+Software" alt="Typing animation" />
+  </a>
+</p>
 
- Pune, Maharashtra, India | Open to Pune or Remote (India)
+<p align="center">
+  <a href="https://github.com/Athulrathor">
+    <img src="https://komarev.com/ghpvc/?username=Athulrathor&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Athulrathor?tab=followers">
+    <img src="https://img.shields.io/github/followers/Athulrathor?label=Followers&style=flat&color=6366F1" alt="GitHub followers" />
+  </a>
+</p>
 
-## About Me
+<p align="center">
+  <strong>Full Stack Developer | B.Tech AIML '26 | MERN Stack</strong>
+  <br/>
+  📍 Pune, Maharashtra, India · Open to Pune & Remote (India)
+</p>
 
-- B.Tech in Artificial Intelligence & Machine Learning, Shriram College of Engineering and Management (2026)
-- Completed internship: **MERN Stack Developer Intern** at Elevance Skill Development Pvt. Ltd. (Remote, June 18 – August 19, 2026)
-- Developed and maintained **20+ RESTful API endpoints** during my internship
-- Worked with JWT authentication, role-based access control, password recovery, and email OTP verification
-- Built image and audio upload workflows using Cloudinary and Multer
-- Used Socket.io for real-time features
-- Working with MongoDB and Mongoose, and learning PostgreSQL
-- Currently improving Data Structures & Algorithms and software engineering fundamentals
-- Open to **fresher, graduate, junior, and internship** roles
+<p align="center">
+  <a href="https://linkedin.com/in/athulrathor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:atulrathore22@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Athulrathor">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## Tech Stack
+---
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+## ✨ About Me
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+I'm a **B.Tech graduate in Artificial Intelligence & Machine Learning (2026)** and a Full Stack Developer interested in building reliable, scalable web applications.
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-F044032?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-880000?style=for-the-badge&logo=Redis&logoColor=white)
+I work across frontend development, backend engineering, database design, authentication, API development, and real-time communication.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-333333?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker_(Basic)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning — 2026
+- 💻 MERN Stack Developer Intern at **Elevance Skill Development Pvt. Ltd.**
+- 🔌 Developed and maintained **20+ RESTful API endpoints**
+- 🔐 Experience with JWT authentication, authorization, email OTP and password recovery
+- ☁️ Implemented media upload workflows using Cloudinary and Multer
+- ⚡ Worked with Socket.io for real-time communication
+- 🗄️ Working with MongoDB, Mongoose and PostgreSQL
+- 🧠 Improving Data Structures, Algorithms and System Design
 
-### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+**My engineering interests:** Backend development · API design · Database engineering · Distributed systems · Real-time applications
 
-## Featured Projects
+---
 
-### Full-Stack Social Media Platform
-A full-stack social media application built with Next.js, Express.js, and MongoDB.
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend technologies" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+</p>
+
+### Database & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Database technologies" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,cloudinary,vercel,netlify" alt="Tools and platforms" />
+  <img src="https://img.shields.io/badge/Multer-333333?style=for-the-badge" alt="Multer" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 01. Full-Stack Social Media Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Application-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real--Time-Features-06B6D4?style=flat-square" />
+</p>
+
+A full-stack social media application with authentication, content sharing, messaging and real-time interactions.
+
+**Key Features**
 
 - JWT authentication and email OTP verification
-- Password reset workflow
-- User profiles, follow/unfollow, likes, and bookmarks
+- Password recovery and user authorization
+- User profiles and follow/unfollow functionality
 - Posts with image and audio uploads
-- Real-time chat with Socket.io
-- Search and admin panel
+- Likes, comments and bookmarks
+- Real-time chat and notifications using Socket.io
+- Search functionality and admin panel
 - Responsive user interface
 
-**Tech:** `Next.js` `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Socket.io` `Cloudinary` `Multer` `Tailwind CSS`
+**Technology:** Next.js · React.js · TypeScript · Node.js · Express.js · MongoDB · Mongoose · JWT · Socket.io · Cloudinary · Multer · Tailwind CSS
 
-🔗 [GitHub Repository](https://github.com/Athulrathor/Twitter-Clone) | [Live Demo](https://twitter-clone-five-mu-80.vercel.app/)
+<p align="center">
+  <a href="https://github.com/Athulrathor/Twitter-Clone">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+  </a>
+  <a href="https://twitter-clone-five-mu-80.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
+</p>
 
 ---
 
-### Real-Time Chat Application
-A one-to-one messaging application with real-time communication.
+### 02. Real-Time Chat Application
 
-- JWT authentication
+A one-to-one messaging application built to support real-time communication between users.
+
+**Key Features**
+
+- JWT-based authentication
 - One-to-one messaging with Socket.io
-- Typing indicators and online status
+- Typing indicators
+- Online user status
+- Real-time message delivery
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
+**Technology:** React.js · Node.js · Express.js · MongoDB · Socket.io · JWT
 
- [GitHub Repository](https://github.com/Athulrathor/RealTime_chatApp)
+<p align="center">
+  <a href="https://github.com/Athulrathor/RealTime_chatApp">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Chat application repository" />
+  </a>
+</p>
 
 ---
 
-### Video Sharing Backend API
-A backend REST API for a video-sharing platform.
+### 03. Video Sharing Backend API
 
-- Video publishing and playlists
-- Comments, likes, and subscriptions
+A backend REST API for a video-sharing platform, implementing common video-platform functionality.
+
+**Key Features**
+
+- Video publishing and playlist management
+- Comments and likes
+- Channel subscriptions
 - Watch history
 - JWT authentication and authorization middleware
-- Media uploads with Cloudinary and Multer
+- Media uploads using Cloudinary and Multer
 
-**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST APIs` `Cloudinary` `Multer`
+**Technology:** Node.js · Express.js · MongoDB · Mongoose · JWT · REST APIs · Cloudinary · Multer
 
-
- [GitHub Repository](https://github.com/Athulrathor/videoAPP)
+<p align="center">
+  <a href="https://github.com/Athulrathor/videoAPP">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Video API repository" />
+  </a>
+</p>
 
 ---
 
- ### Synapse: Collaborative Real-Time Document Editor *(In Development)*
-A web-based document editor where multiple users can edit the same document and see changes in real time.
+### 04. Synapse — Collaborative Real-Time Document Editor
 
-- Real-time communication with Socket.io
-- Syncing edits between active users
-- MongoDB schema design for document storage
+<img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" alt="In development" />
+
+A collaborative document editor focused on enabling multiple users to work on shared documents with real-time updates.
+
+**Project Focus**
+
+- Real-time communication using Socket.io
+- Synchronization of edits between active users
+- Document storage and database schema design
 - Active user presence tracking
+- Collaborative editing architecture
 
-**Tech:** `React.js` `Nest.js` `Express.js` `Socket.io` `PostgreSql` `Tailwind CSS` `Redis` `BullMQ` `Docker`
+**Technology:** NestJS · React.js · PostgreSQL · Redis · Socket.io · Tailwind CSS · Docker
 
- [GitHub Repository](https://github.com/Athulrathor/Synapse---real-time-document-editor-collaborative)
+<p align="center">
+  <a href="https://github.com/Athulrathor/Synapse---real-time-document-editor-collaborative">
+    <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Synapse repository" />
+  </a>
+</p>
 
- ---
+---
 
-## Currently Learning
+## 📊 GitHub Statistics
 
-- Data Structures & Algorithms
-- NestJS, Redis, and BullMQ
-- PostgreSQL
-- System Design basics
-- Docker, Kubernetes, AWS, and CI/CD
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Athulrathor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Athulrathor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-## Career Goals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulrathor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
 
-I'm looking for fresher and entry-level opportunities where I can:
+### Contribution Activity
 
-- Build reliable web applications
-- Learn from experienced software engineers
-- Improve my backend and system design skills
-- Solve real-world engineering problems
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athulrathor&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-**Open to:** Full Stack Developer | MERN Stack Developer | Software Developer | Software Engineer | Backend Developer | Frontend Developer (fresher and internship roles)
- Pune, Maharashtra, India | Remote (India)
+---
 
- ---
+## 🐍 Contribution Snake
 
-## Let's Connect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athulrathor/Athulrathor/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+</p>
 
-- **LinkedIn:** [linkedin.com/in/athulrathor](https://linkedin.com/in/athulrathor/)
-- **Email:** atulrathore22@outlook.com
+---
+
+## 📚 Currently Learning
+
+| Area | Focus |
+|---|---|
+| Data Structures & Algorithms | Problem solving and coding patterns |
+| Backend Engineering | NestJS, Redis and PostgreSQL |
+| System Design | Scalability, caching and architecture |
+| DevOps | Docker, Kubernetes, AWS and CI/CD |
+| Software Engineering | Clean code and production-ready practices |
+
+---
+
+## 🎯 Career Goals
+
+I'm looking for fresher, graduate and entry-level opportunities where I can:
+
+- Build reliable and maintainable software.
+- Learn from experienced software engineers.
+- Improve backend engineering and system design skills.
+- Work on real-world engineering problems.
+- Contribute to scalable web applications.
+
+**Open to:** Full Stack Developer · MERN Stack Developer · Backend Developer · Software Developer · Software Engineer · Frontend Developer
+
+📍 Pune, Maharashtra, India | Remote (India)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/athulrathor/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Athulrathor">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:atulrathore22@outlook.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building. Learning. Improving. One commit at a time.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=100&section=footer" width="100%" alt="Animated footer" />
+</p>
